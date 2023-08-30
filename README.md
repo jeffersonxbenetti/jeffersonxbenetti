@@ -10,6 +10,9 @@ Sou Jefferson Benetti, desenvolvedor Front End, Atualmente estudo programação 
 Agora estou começando a aprender JavaScript e React.
 <br>
 
+Segue o meu contato:
+<br>
+
 <a href="https://www.linkedin.com/in/jeffersonbenetti/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
