@@ -1,11 +1,11 @@
 <h2 align="center"> Hi 👋!
   <br>
   <br>
-  My name is Jefferson Benetti!
+  My name is Jefferson Benetti!</h2>
   <br>
   <br>
-  I'm a front end programmer looking for my first opportunity. As a programming student, I have been studying and improving my knowledge of tools such as HTML5, CSS3, JAVASCRIPT and     
-  REACT.</h2>
+  <p>I'm a front end programmer looking for my first opportunity. As a programming student, I have been studying and improving my knowledge of tools such as HTML5, CSS3, JAVASCRIPT and     
+  REACT.</p>
 
 ### <h3 align="center"> Skils: </h3>
 
