@@ -1,11 +1,11 @@
-<h1 align="center">
+<h1 align="left">
   Great pleasure,  
 <br>
 
   my name is Jefferson Benetti 🤵</h1>  
 <br>
 
-<p align="center">
+<p align="left">
   Programming/front end student, at the DEVCLUB institution, started my programming studies in September 2023. Passionate about technology, I'm looking for my opportunity in the job market.
 </p>
 <br>
