@@ -8,6 +8,7 @@
 <p align="left">
   Programming/front end student, at the DEVCLUB institution, started my programming studies in September 2023. Passionate about technology, I'm looking for my opportunity in the job market.
 </p>
+<p>Tendo desenvolvido projetos com HTML, CSS e JavaScript!!</p>
 <br>
 
 <h3 align="center"> 
