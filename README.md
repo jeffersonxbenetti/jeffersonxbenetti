@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center"> Habilidades </h3>
+<h2 align="center"> Habilidades </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo" />  
   <img width="12" />
@@ -29,24 +29,25 @@
 
 <h3 align="center"> 
   Entre em contato para marcamos um café? ☕
-  <br>
-  <br> 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/jeffersonbenetti/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" heigth="50" alt="LinkedIn" />
-    </a>
-    <br>
-    <br>
-    <a href="mailto:jefferson.benetti@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" heigth="50" alt="gmail logo" />
-    </a>
-    <br>
-    <br>
-    <a href="https://wa.me/5511949608003?text=Ol%C3%A1,+muito+obrigado+por+entrar+em+contato!" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" heigth="50" alt="gmail logo" />
-    </a>
-  </div>
-</h3><br>
+</h3>
+<br>
+<br> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeffersonbenetti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" heigth="50" alt="LinkedIn" />
+  </a>
+<br>
+<br>
+  <a href="mailto:jefferson.benetti@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" heigth="50" alt="gmail logo" />
+  </a>
+<br>
+<br>
+  <a href="https://wa.me/5511949608003?text=Ol%C3%A1,+muito+obrigado+por+entrar+em+contato!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" heigth="50" alt="gmail logo" />
+  </a>
+</div>
+<br>
 
 ###
 
