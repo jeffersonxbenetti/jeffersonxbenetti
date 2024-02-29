@@ -4,7 +4,7 @@
   Me chamo Jefferson Benetti 🤵</h1>  
 <br>
 <p align="left">
-  Sou um desenvolvedor front-end e meu objetivo é me tornar um profissional qualificado. Em setembro de 2023, decidi iniciar uma nova carreira. Desde então, tenho me dedicado aos estudos em programação para me especializar e me preparar para o mercado de trabalho. Já adquiri conhecimentos em ferramentas como HTML, CSS e JavaScript. Atualmente, estou estudando React para aprimorar minhas habilidades.
+  Sou um desenvolvedor front-end e meu objetivo é me tornar um profissional qualificado. Em setembro de 2023, decidi iniciar uma nova carreira. Desde então, tenho me dedicado aos estudos em programação para me especializar e me preparar para o mercado de trabalho. Já adquiri conhecimentos em ferramentas como HTML, CSS e JavaScript. Atualmente, estou estudando React para aprimorar minhas habilidades.🚀🚀🚀
 </p>
 <br>
 
